@@ -1,0 +1,116 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "artist": "محسن فرهمندآزاد",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": true
+      },
+      {
+        "id": 2,
+        "artist": "مهدی سلحشور",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 3,
+        "artist": "حاج منصور ارضی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 4,
+        "artist": "میثم مطیعی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 5,
+        "artist": "مهدی سماواتی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 6,
+        "artist": "محمود کریمی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 7,
+        "artist": "حسین سازور",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 8,
+        "artist": "حسن خلج",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 9,
+        "artist": "محمدرضا طاهری",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 10,
+        "artist": "حسن براتی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 11,
+        "artist": "سید مهدی میرداماد",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 12,
+        "artist": "مهدی منصوری",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 13,
+        "artist": "باسم کربلایی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 14,
+        "artist": "یونس کربلایی",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      },
+      {
+        "id": 15,
+        "artist": "صادق آهنگران",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
+        "enable": false
+      },
+      {
+        "id": 16,
+        "artist": "مهدی منصوری",
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
+        "enable": false
+      }
+    ]
+  }
