@@ -33,6 +33,8 @@
       {
         "id": 5,
         "artist": "مهدی سماواتی",
+        "length": "۲۲:۱۶",
+        "bytes": "۵.۱ مگابایت",
         "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/5.mp3",
         "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/5.json",
         "enable": true
@@ -40,6 +42,8 @@
       {
         "id": 6,
         "artist": "محمود کریمی",
+        "length": "۲۳:۴۷",
+        "bytes": "۱۲.۳ مگابایت",
         "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
         "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
         "enable": true
