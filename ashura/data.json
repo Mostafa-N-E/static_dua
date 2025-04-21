@@ -33,16 +33,16 @@
       {
         "id": 5,
         "artist": "مهدی سماواتی",
-        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
-        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
-        "enable": false
+        "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/5.mp3",
+        "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/5.json",
+        "enable": true
       },
       {
         "id": 6,
         "artist": "محمود کریمی",
         "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/2.mp3",
         "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/2.json",
-        "enable": false
+        "enable": true
       },
       {
         "id": 7,
