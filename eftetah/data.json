@@ -7,7 +7,7 @@
         "bytes": "۱۲.۰۱ مگابایت",
         "url_audio": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/audio/1.mp3",
         "url_text_split": "https://raw.githubusercontent.com/Mostafa-N-E/static_dua/main/ashura/text/1.json",
-        "enable": true
+        "enable": false
       },
       {
         "id": 2,
